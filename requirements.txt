@@ -1,0 +1,5 @@
+tornado==6.0.3
+celery==4.3.0
+asyncio==3.4.3
+eventlet==0.25.1
+redis
